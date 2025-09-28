@@ -1,0 +1,39 @@
+JAVA ASSISTANT
+
+
+#   Authentication
+
+->  # SignUp
+       --> Gmail verification
+       --> username and password set (Gmail is also primery key) --> you want to continue same account and create new account
+                                                                               using this Email
+       --> add username and passwords (username is also primery key)
+       --> add account in DataBase
+       --> auto login in this account
+       --> connect with user interface
+->  # SignOut
+       --> If already SignIn or LogIn then Only
+       --> Gmail verification
+       --> username and password verification
+       --> delete account from DataBase
+       --> auto logout
+       --> program start again
+->  # LogIn
+       --> user_name and password verification
+       --> user interface
+            --> else ask for LogIn or closed
+->  # LogOut
+      --> if user logedIn only
+
+
+-> # For Host
+
+      #  Host
+
+      --> # Login
+             --> user_name & password verificaton
+             --> Host Interface
+
+
+      --> # LogOut
+             --> program start from begin
