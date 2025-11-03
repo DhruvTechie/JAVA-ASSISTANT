@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/22580934/README.md)
-# JavaAssistant
+# GFG-Type Documentary PDF Viewer
 
 A comprehensive Java-based authentication and user management system with Gmail integration, database connectivity, and interactive console interface.
 
